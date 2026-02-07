@@ -1,3 +1,4 @@
-#Creating simple file just for demo
+#!/bin/bash
 
-x = a+b+c
+# Addition functionality of Calculator
+
